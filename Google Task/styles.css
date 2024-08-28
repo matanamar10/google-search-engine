@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.logo {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.input-group {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.search-results {
+    text-align: left;
+    margin-top: 30px;
+}
+
+.search-results ul li a {
+    text-decoration: none;
+    color: #1a0dab;
+}
+
+.search-results ul li a:hover {
+    text-decoration: underline;
+}
