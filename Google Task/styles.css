@@ -9,8 +9,13 @@ body {
     margin-bottom: 20px;
 }
 
+.results-logo {
+    margin-right: 1%;
+    width: 40px;
+}
+
 .input-group {
-    max-width: 500px;
+    max-width: 540px;
     margin: 0 auto;
 }
 
